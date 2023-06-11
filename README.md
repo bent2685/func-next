@@ -1,5 +1,8 @@
 # 对Object便捷操作以及函数式处理
 
+
+> FuncNext 1.1.4
+
 ## 安装
 ```powershell
 npm instal func-next --save-dev
