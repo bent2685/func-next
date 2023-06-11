@@ -1,5 +1,12 @@
 # 对Object便捷操作以及函数式处理
 
+## 安装
+```powershell
+npm instal func-next --save-dev
+```
+
+---
+
 ## 介绍
 是一个 JavaScript 类。它提供了一些方法，可以对一个对象进行一系列的操作，包括：
 - 深拷贝对象
