@@ -124,3 +124,8 @@ of() 方法用于创建一个 FuncNext 实例，它接受一个对象作为参�
 out() 方法用于获取操作后的结果，它会返回一个新的对象，这个对象是经过 FuncNext 实例中的所有操作后得到的结果。需要注意的是，out() 方法并不会修改原始对象，而是返回一个新的对象。
 
 在 FuncNext 的链式调用中，通常会在 of() 方法后面调用一系列的方法来对对象进行操作，最后再调用 out() 方法来获取操作后的结果。
+
+---
+
+## 仓库地址
+[![badge](https://img.shields.io/badge/github-FuncNext-%23036aa4)](https://github.com/bent2685/func-next)
