@@ -5,7 +5,7 @@
 
 ## 安装
 ```powershell
-npm instal func-next --save-dev
+npm install func-next --save-dev
 ```
 
 ---
