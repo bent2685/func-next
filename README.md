@@ -4,7 +4,7 @@
 > FuncNext 1.1.4
 
 ## 安装
-```bash
+```sh
 npm install func-next --save-dev
 ```
 
